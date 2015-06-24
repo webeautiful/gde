@@ -20,7 +20,8 @@
 + svn配置
     - svn diff的配置
     - svn仓库的搭建与管理
-* `git+github`的使用
++ `git+github`的使用
+    - .gitconfig的配置
 * LNMP环境的搭建
 
 ##Chrome配置
