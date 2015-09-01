@@ -66,6 +66,7 @@
 
 * [jiange1236](http://git.oschina.net/jiange1236/googlehosts)
 * [txthinking](https://github.com/txthinking/google-hosts)
+* [load](http://laod.cn/hosts/2015-google-hosts.html)
 
 **方法一:使用免费配代理**
 
