@@ -39,6 +39,8 @@
 * [jQuery中文API](http://jquery.bootcss.com/)
 * [B示例-CSS篇](http://helongfei.com/bootstrap/)
 * [jQuery sheet](http://www.css88.com/jqapi-1.9/)
+* [php在线编辑器](http://phpedia.net/)
+* [必备工具盘点](http://www.csdn.net/article/2015-09-24/2825784)
 
 ####plugin
 * Vimium - 像vim一样操作网页
