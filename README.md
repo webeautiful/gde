@@ -1,7 +1,7 @@
 # gde
 打造属于自己的Geek式开发环境
 
-## 开发主战场
+## 我的开发主战场
 #### 桌面环境
 * OS - win7
 * Oracle VM VirtualBox - 用户ie6,ie7,ie8的兼容性测试
