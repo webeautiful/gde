@@ -60,6 +60,10 @@
 * [查兼容](http://caniuse.com/)
 * [MDN-css](https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Getting_started)
 
+## 搭建个人blog必备
+
+* 多说评论和百度统计
+
 ####plugin
 * vimFx - 像vim一样操作网页
 
